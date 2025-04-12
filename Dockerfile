@@ -1,5 +1,5 @@
 # Pull base image DEMO
-FROM tomcat  
+FROM tomcat 
 
 # Maintainer
 MAINTAINER "Vijay Mr. Gawate" 
