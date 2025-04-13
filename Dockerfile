@@ -1,4 +1,4 @@
-# Pull base image DEMO
+# Pull base image demo
 FROM tomcat 
 
 # Maintainer
